@@ -2,7 +2,7 @@
   <section class="about">
     <h2 class="about-title">About</h2>
     <figure class="about-image">
-      <img src="">
+      <img src="../../icon.jpg">
     </figure>
     <p class="about-name">ozaki futa</p>
     <p class="about-birthday">2001 / 08 / 26</p>
